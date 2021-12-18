@@ -1,4 +1,4 @@
-Have a look at this app @ https://swiggydialog.netlify.app/
+Have a look at this app @ https://swiggydialog.netlify.app/ The final selections are logged.
 
 
 
